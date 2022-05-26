@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ashish Gautam</h1>
+<h1 align="center">Hi 👋, I'm Subidh Khanal</h1>
 <h3 align="center">A Passionate Frontend Developer & AI Enthusiast</h3>
 
 - 🌱 I’m currently learning **Node.JS,Firebase,Stripe & Other APIs**
 
-- 👨‍💻 All of my projects are available at [https://ashishgautam0.com/](https://ashishgautam0.com/)
-
+- 👨‍💻 All of my projects are available at 
+<!-- - [https://ashishgautam0.com/](https://ashishgautam0.com/)
+ -->
 - 📝 I regularly write articles on [https://bctengineeringnotes.blogspot.com/](https://bctengineeringnotes.blogspot.com/)
 
 - 💬 Ask me about **React, Next.js**
 
-- 📫 How to reach me **ashishgautam0012@gmail.com**
+- 📫 How to reach me **subidhkhanal37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish gautam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subidh-khanal-a813641a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish gautam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
