@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning **Node.JS,Firebase,Stripe & Other APIs**
 
 - 👨‍💻 All of my projects are available at 
-<!-- - [https://ashishgautam0.com/](https://ashishgautam0.com/)
  -->
-- 📝 I regularly write articles on [https://bctengineeringnotes.blogspot.com/](https://bctengineeringnotes.blogspot.com/)
 
 - 💬 Ask me about **React, Next.js**
 
