@@ -3,9 +3,6 @@
 
 - 🌱 I’m currently learning **Node.JS,Firebase,Stripe & Other APIs**
 
-- 👨‍💻 All of my projects are available at 
- -->
-
 - 💬 Ask me about **React, Next.js**
 
 - 📫 How to reach me **subidhkhanal37@gmail.com**
