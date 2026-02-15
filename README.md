@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Subidh Khanal</h1>
 <h3 align="center">AI/ML Engineer | RAG Systems Builder | LLM & Agentic AI Developer</h3>
 
-- 🚀 Building production-grade **RAG systems, Agentic AI pipelines & LLM-powered automation**
-- 🧠 Working with **OpenAI, Gemini, LangChain, Hybrid Search, Cohere Reranking**
-- 🌱 Exploring **Advanced Retrieval, Multi-modal AI & Scalable Backend Systems**
+- 🚀 Built **automated content pipelines** at PathToPR.ca using OpenAI & Gemini APIs
+- 🧠 Working with **LangChain, Hybrid Search (Dense + BM25), Cohere Reranking, RAGAS Evaluation**
+- 🔥 Shipped an **Agentic RAG Knowledge Base** with query routing, reciprocal rank fusion & FastAPI backend
+- 📈 Built a blog reaching **2.2M+ organic views & 87K monthly visitors** through SEO & content strategy
+- 🌱 Exploring **Advanced Retrieval, Multi-agent Systems & Financial Document AI**
 - 💬 Ask me about **RAG Architecture, FastAPI, LangChain, Next.js**
 - 📫 Reach me at **subidhkhanal38@gmail.com**
 
@@ -15,25 +17,16 @@
 </p>
 
 <h3 align="left">Core Tech Stack:</h3>
-
 <p align="left">
-
 <b>AI / LLM</b><br/>
-OpenAI API • Gemini API • LangChain • RAG Pipelines • Hybrid Search • Cohere • RAGAS • Agentic AI
-
+OpenAI API • Gemini API • LangChain • RAG Pipelines • Hybrid Search • Cohere Reranking • RAGAS • Agentic AI
 <br/><br/>
-
 <b>Backend</b><br/>
 Python • FastAPI • REST APIs • Automation Pipelines • Web Scraping • ChromaDB • SQL
-
 <br/><br/>
-
 <b>Frontend</b><br/>
 Next.js • React • Tailwind CSS
-
 <br/><br/>
-
 <b>Tools</b><br/>
-Git • Stripe • Firebase
-
+Git • Google Analytics • Google Search Console
 </p>
