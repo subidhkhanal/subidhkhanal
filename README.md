@@ -5,7 +5,7 @@
 - 🧠 Working with **LangChain, Hybrid Search (Dense + BM25), Cohere Reranking, RAGAS Evaluation**
 - 🔥 Shipped an **Agentic RAG Knowledge Base** with query routing, reciprocal rank fusion & FastAPI backend
 - 📈 Built a blog reaching **2.2M+ organic views & 87K monthly visitors** through SEO & content strategy
-- 🌱 Exploring **Advanced Retrieval, Multi-agent Systems & Financial Document AI**
+- 🌱 Exploring **Advanced Retrieval & Multi-agent Systems**
 - 💬 Ask me about **RAG Architecture, FastAPI, LangChain, Next.js**
 - 📫 Reach me at **subidhkhanal38@gmail.com**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Core Tech Stack:</h3>
 <p align="left">
 <b>AI / LLM</b><br/>
-OpenAI API • Gemini API • LangChain • RAG Pipelines • Hybrid Search • Cohere Reranking • RAGAS • Agentic AI
+OpenAI API • Gemini API • LangChain • RAG Pipelines • Hybrid Search • RAGAS • Agentic AI
 <br/><br/>
 <b>Backend</b><br/>
 Python • FastAPI • REST APIs • Automation Pipelines • Web Scraping • ChromaDB • SQL
